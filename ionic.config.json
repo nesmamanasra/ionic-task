@@ -1,0 +1,7 @@
+{
+  "name": "login-task",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
